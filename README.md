@@ -1,3 +1,5 @@
 # Hands-on-machine-learning
 
-## start learning about muchine learning
+## Let's start learning about muchine learning
+
+
